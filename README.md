@@ -74,11 +74,12 @@ Hello World<br>
 
 
 ## 링크(바로가기)
-[링크 텍스트](URL)
-[링크 텍스트](URL "툴팁 텍스트")
-<a href="URL" target="_blank">텍스트</a> ← 새창 열기 (HTML 사용)
+[링크 텍스트](URL)  
+[링크 텍스트](URL "툴팁 텍스트")  
+<a href="URL" target="_blank">텍스트</a> ← 새창 열기 (HTML 사용)  
 [네이버](https://naver.com)
-
+<a href="https://naver.com" target="_blank">새탭 열고 이동</a>
+이게 목적인 뭔데?
 
 
 
