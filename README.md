@@ -82,7 +82,12 @@ Hello World<br>
 이게 목적인 뭔데? -> 링크 누르면 새텝이 만들어지면서 링크로 들어가지는 뭐 그런게 목적인거 같다  
 
 # 이미지
+![제목](./cat.jpg)  
+이미지의 크기를 조절해보자  
 
+---
+
+<img src="./cat.jpg" width="300" height="200" alt=""/> 
 
 # 인용문
 > Hello World
@@ -106,11 +111,31 @@ Hello World<br>
 |0|-|0|-|-|0|-|0|
 |0|0|-|-|-|-|0|0|
 |0|0|0|0|0|0|0|0|
-
-
 최소 3개 이상 라인을 잡아주셔야하고
+
+
+
+
+
+
 # 코드블럭
 
-
+```C
+#include <stdio.h>
+int main(void) {
+   printf("hello world");
+   return 0;
+}
+```
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+ </head>
+ <body>
+   <h1>HELLO WORLD</h1>
+ </body>
+ </html>
+```
 
 
